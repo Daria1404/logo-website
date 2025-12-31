@@ -1,0 +1,95 @@
+
+@font-face {
+    font-family: Poppins;
+    src: url("./fonts/Poppins-Medium.ttf");
+}
+:root{
+    --primary:#1090CB;
+}
+.nav-buuton{
+    background-color: var(--primary) !important;
+    color: white !important;
+}
+.active-home{
+    color: var(--primary) !important;
+}
+.btn-bg{
+    background-color: var(--primary) !important;
+    color: white !important;
+}
+.btn-outline{
+    border: 1px solid var(--primary) !important;
+    background-color: #ffff !important;
+    color: var(--primary) !important;
+}
+h1 span{
+    color: var(--primary) !important;
+}
+.card2{
+    background-color: var(--primary) !important;
+    border-radius: 20px !important;
+}
+.card1{
+    background-color: #F4F4F4 !important;
+    border-radius: 20px !important;
+}
+.cards-para{
+    font-family: Poppins !important;
+}
+.herospan-color{
+    color: var(--primary) !important;
+}
+.outline{
+    border: 1px solid var(--primary) !important;
+    background-color: white !important;
+    color: var(--primary) !important;
+}
+.custom-color{
+    color: #ffff !important;
+}
+.color{
+    background-image: url(./images/Rectangle\ 6.png) !important;
+    width: 83px !important ;
+    height: 83px !important ;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center ;
+}
+.color img{
+    width: 40% !important;
+}
+.color2{
+    background-image: url(./images/Rectangle\ 7\ \(2\).png) !important;
+}
+.color3{
+    background-image: url(./images/Rectangle\ 8\ \(1\).png) !important;
+}
+.color4{
+    background-image: url(./images/Rectangle\ 9\ \(1\).png) !important;
+}
+.bg{
+    background-image: url(./images/Ellipse\ 3\ \(4\).png) !important;
+    width: 58px !important;
+    height: 58px !important;
+}
+.bg2{
+     background-image: url(./images/Ellipse\ 3\ \(5\).png) !important;
+    width: 58px !important;
+    height: 58px !important;
+}
+.bg3{
+     background-image: url(./images/Ellipse\ 3\ \(6\).png) !important;
+    width: 58px !important;
+    height: 58px !important;
+}
+.para{
+    font-family: Poppins !important;  
+    font-size: 18px !important;
+    line-height: 170% !important;
+}
+.herosection-color{
+   background: #1090CB1A !important;
+}
+.fs-custom{
+    font-size: 15px !important;
+}
